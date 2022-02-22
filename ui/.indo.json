@@ -1,0 +1,8 @@
+{
+  "repos": {
+    "vendor/unocss-preset-alloc": {
+      "url": "https://github.com/alloc/unocss-preset-alloc",
+      "optional": true
+    }
+  }
+}

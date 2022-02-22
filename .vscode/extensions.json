@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "sysoev.language-stylus",
+    "thisismanta.stylus-supremacy",
+    "esbenp.prettier-vscode",
+    "antfu.unocss"
+  ]
+}

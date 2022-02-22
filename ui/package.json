@@ -1,0 +1,15 @@
+{
+  "name": "@saus/test-ui",
+  "private": true,
+  "devDependencies": {
+    "@saus/react": "*",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "saus": "*",
+    "stylus": "^0.56.0",
+    "unocss": "^0.22.7",
+    "unocss-preset-alloc": "^0.22.8",
+    "vite-react-css": "^0.0.0",
+    "vite-tsconfig-paths": "^3.4.0"
+  }
+}

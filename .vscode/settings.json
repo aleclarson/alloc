@@ -1,0 +1,6 @@
+{
+  "stylusSupremacy.insertSemicolons": false,
+  "stylusSupremacy.insertBraces": false,
+  "stylusSupremacy.selectorSeparator": "\n",
+  "stylusSupremacy.sortProperties": "alphabetical"
+}
